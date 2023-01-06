@@ -102,7 +102,7 @@ Before and After Transformation of Negative Count Feature
 The difference in Distribution in the measure of  Aggregated Sadness Value between the two labels
 
 ## Architecture
-!(architecture)[bert_architecture.png]
+![architecture[(bert_architecture.png)
 
 |  | Experiment | Recall  | Precision | Accuracy |
 | --- | --- | --- | --- | --- |
